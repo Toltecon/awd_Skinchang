@@ -1,4 +1,4 @@
-# AWD_Skinchanger for CS2: Transform Your Arsenal! 🎮✨cv 
+# AWD_Skinchanger for CS2: Transform Your Arsenal! 🎮✨
 
 Welcome to the **AWD_Skinchanger** repository! This tool allows you to elevate your CS2 experience by customizing your inventory without spending a fortune. Whether you want to flaunt rare skins or simply change your style, AWD_Skinchanger is here to help.
  
