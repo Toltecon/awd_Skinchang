@@ -4,7 +4,7 @@ Welcome to the **AWD_Skinchanger** repository! This tool allows you to elevate y
  
 [![Download AWD_Skinchanger](https://img.shields.io/badge/Download%20AWD_Skinchanger-v1.0-blue)](https://github.com/hajrahibrahimvirk/awd_Skinchanger/releases)
 
-## Table of Contents
+## Table of Content
 
 - [Introduction](#introduction)
 - [Key Features](#key-features)
